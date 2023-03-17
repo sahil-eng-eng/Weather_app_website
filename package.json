@@ -1,0 +1,26 @@
+{
+  "name": "weatherappproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil-eng-eng/Weather_app_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahil-eng-eng/Weather_app_website/issues"
+  },
+  "homepage": "https://github.com/sahil-eng-eng/Weather_app_website#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1"
+  }
+}
